@@ -17,7 +17,7 @@ To ensure compatibility with Android 10 and above, add the following code to you
 ```
 
 #### Define Input JSON for intent extras.
-Prepare the input JSON that your app will send to the OCL App. This JSON should adhere to the request body schema of the [generateOcl](https://demo.opencampaignlink.org/swagger-ui/index.html#/OCL%20Related/generate) API.
+Prepare the input JSON that your app will send to the OCL App. This JSON should adhere to the request body schema of the [generateOcl](https://demoocl.opencampaignlink.org/docs#/OCL%20Related/generate) API.
 
 ```kotlin
     val inputJson = """

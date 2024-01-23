@@ -44,7 +44,7 @@ Add a FragmentContainerView to your activity's layout.
 
 Define the input json
 
-Prepare the input JSON that your app will send to the OCL Library. This JSON should adhere to the request body schema of the [generateOcl](https://demo.opencampaignlink.org/swagger-ui/index.html#/OCL%20Related/generate) API. Below is a Kotlin example:
+Prepare the input JSON that your app will send to the OCL Library. This JSON should adhere to the request body schema of the [generateOcl](https://demoocl.opencampaignlink.org/docs#/OCL%20Related/generate) API. Below is a Kotlin example:
 
 ```kotlin
     val inputJson = """
